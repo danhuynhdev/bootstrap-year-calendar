@@ -11,6 +11,11 @@ view: ecommerce_country {
     sql: ${TABLE}.continent_name ;;
   }
 
+  dimension: continent_name_2 {
+    type: string
+    sql: ${TABLE}.continent_name ;;
+  }
+
   dimension: name {
     type: string
     sql: ${TABLE}.name ;;
