@@ -17,7 +17,7 @@ view: ecommerce_country {
   }
 
 
-  dimension: continent_name_3 {
+  dimension: continent_name_34 {
     type: string
     sql: ${TABLE}.continent_name ;;
   }
