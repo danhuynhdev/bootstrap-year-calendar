@@ -35,4 +35,5 @@ view: cohort_analysis {
     type: count
     drill_fields: []
   }
+
 }
